@@ -9,7 +9,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Links
 
 - Solution URL: [https://github.com/Emad-Essayed/Frontend-Mentor-3-column-preview-card-component](https://github.com/Emad-Essayed/Frontend-Mentor-3-column-preview-card-component)
-- Live Site URL: [https://emad-essayed.github.io/Frontend-Mentor-3-column-preview-card-component/](https://emad-essayed.github.io/Frontend-Mentor-3-column-preview-card-component/)
+- Live Site URL: [https://emad-essayed.github.io/Frontend-Mentor-3-column-preview-card-component/git](https://emad-essayed.github.io/Frontend-Mentor-3-column-preview-card-component/)
 
 ### Built with
 
